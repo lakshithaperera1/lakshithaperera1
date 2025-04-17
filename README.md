@@ -192,8 +192,8 @@ const LakshithaPerera = {
 
 <p align="center">
   <a href="#">
-    <img height="180em" src="https://github-readme-stats-lakshithaperera.vercel.app/api?username=lakshithaperera&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=61DAFB" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-lakshithaperera.vercel.app/api/top-langs/?username=lakshithaperera&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=61DAFB" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshithaperera&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=61DAFB" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshithaperera&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=61DAFB" alt="Top Languages" />
   </a>
 </p>
 
@@ -209,24 +209,31 @@ const LakshithaPerera = {
   </a>
 </p>
 
+<!-- Fixed Activity Graph -->
+<p align="center">
+  <a href="#">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshithaperera&theme=tokyo-night&hide_border=true&radius=8&custom_title=Contribution%20Timeline&line=FF4084&color=A9FEF7" width="98%" />
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me** <img src="https://media.giphy.com/media/1AgEHWOf3Z3DfZ4lcf/giphy.gif" width="40">
 
 <p align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com/in/lakshithaperera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/lakshithaperera" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:lakshitha@securityexpert.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/lakshithaperera">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://medium.com/@">
+  <a href="https://medium.com/@lakshithaperera">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
@@ -237,11 +244,8 @@ const LakshithaPerera = {
     Recent Activities
   </h3>
   
-  <!--RECENT_ACTIVITY:start-->
-  <p align="center">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=lakshithaperera&theme=tokyo-night&hide_border=true&radius=8&custom_title=Contribution%20Timeline&line=FF4084&color=A9FEF7" width="98%" />  
-  </p>
-  <!--RECENT_ACTIVITY:end-->
+  <!-- Added an alternative visual for recent activities -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshithaperera&theme=radical" width="100%" alt="Activity Summary" />
 </div>
 
 <div align="center">
