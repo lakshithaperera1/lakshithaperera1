@@ -35,8 +35,7 @@ const LakshithaPerera = {
   ],
   certifications: [
     "CISSP", "CEH", "CCNA", 
-    "CC", "CND", "CSU",
-    "OSCP", "CISM"
+    "CC", "CND", "CSU", "CISM"
   ],
   tools: [
     "Metasploit", "Wireshark", "Burp Suite",
