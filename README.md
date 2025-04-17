@@ -59,7 +59,7 @@ const LakshithaPerera = {
   <a href="#"><img src="https://img.shields.io/badge/CISSP-Certified-brightgreen?style=for-the-badge&logo=isc2&logoColor=white&labelColor=0A0A16&color=51D053" alt="CISSP" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CEH-Certified-red?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0A0A16&color=FF3E3E" alt="CEH" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CCNA-Certified-blue?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0A0A16&color=0078D7" alt="CCNA" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OSCP-Certified-darkred?style=for-the-badge&logo=openbugbounty&logoColor=white&labelColor=0A0A16&color=CF0000" alt="OSCP" /></a>
+ 
   <a href="#"><img src="https://img.shields.io/badge/CC-Certified-yellow?style=for-the-badge&labelColor=0A0A16&color=E5B91E" alt="CC" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CND-Certified-orange?style=for-the-badge&labelColor=0A0A16&color=FD9A2B" alt="CND" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CISM-Certified-purple?style=for-the-badge&logo=isaca&logoColor=white&labelColor=0A0A16&color=AA43FF" alt="CISM" /></a>
