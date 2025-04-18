@@ -14,8 +14,6 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    
-    <!-- CISSP -->
     <div style="position: relative; width: 160px; height: 160px; perspective: 1000px;">
       <div style="width: 100%; height: 100%; transition: transform 0.8s; transform-style: preserve-3d;">
         <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(135deg, #001837 0%, #004daa 100%); border-radius: 15px; box-shadow: 0 10px 20px rgba(0,72,168,0.3); padding: 15px;">
@@ -27,8 +25,6 @@
         </div>
       </div>
     </div>
-    
-    <!-- CEH -->
     <div style="position: relative; width: 160px; height: 160px; perspective: 1000px;">
       <div style="width: 100%; height: 100%; transition: transform 0.8s; transform-style: preserve-3d;">
         <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(135deg, #1A1A1A 0%, #9FEF00 100%); border-radius: 15px; box-shadow: 0 10px 20px rgba(159,239,0,0.3); padding: 15px;">
@@ -40,8 +36,6 @@
         </div>
       </div>
     </div>
-    
-    <!-- CCNA -->
     <div style="position: relative; width: 160px; height: 160px; perspective: 1000px;">
       <div style="width: 100%; height: 100%; transition: transform 0.8s; transform-style: preserve-3d;">
         <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(135deg, #1A1A1A 0%, #1BA0D7 100%); border-radius: 15px; box-shadow: 0 10px 20px rgba(27,160,215,0.3); padding: 15px;">
@@ -53,8 +47,6 @@
         </div>
       </div>
     </div>
-    
-    <!-- CND -->
     <div style="position: relative; width: 160px; height: 160px; perspective: 1000px;">
       <div style="width: 100%; height: 100%; transition: transform 0.8s; transform-style: preserve-3d;">
         <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(135deg, #1A1A1A 0%, #FF6C37 100%); border-radius: 15px; box-shadow: 0 10px 20px rgba(255,108,55,0.3); padding: 15px;">
@@ -66,8 +58,6 @@
         </div>
       </div>
     </div>
-    
-    <!-- CC -->
     <div style="position: relative; width: 160px; height: 160px; perspective: 1000px;">
       <div style="width: 100%; height: 100%; transition: transform 0.8s; transform-style: preserve-3d;">
         <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(135deg, #1A1A1A 0%, #512BD4 100%); border-radius: 15px; box-shadow: 0 10px 20px rgba(81,43,212,0.3); padding: 15px;">
@@ -108,8 +98,6 @@
         <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
       </div>
     </div>
-    
-    <!-- Networking -->
     <div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: all 0.3s ease;">
       <h3 style="margin-top: 0; color: #3498db;">Networking</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -149,21 +137,18 @@
         LinkedIn
       </div>
     </a>
-    
     <a href="https://tryhackme.com/p/lakshithaperera" target="_blank" style="text-decoration: none;">
       <div style="display: flex; align-items: center; background: #212C42; color: white; padding: 10px 20px; border-radius: 50px; transition: all 0.3s ease; box-shadow: 0 5px 15px rgba(33,44,66,0.3);">
         <img src="https://tryhackme.com/img/favicon.png" width="24" style="margin-right: 10px;" />
         TryHackMe
       </div>
     </a>
-    
     <a href="https://hackthebox.com/profile/lakshithaperera" target="_blank" style="text-decoration: none;">
       <div style="display: flex; align-items: center; background: #9FEF00; color: black; padding: 10px 20px; border-radius: 50px; transition: all 0.3s ease; box-shadow: 0 5px 15px rgba(159,239,0,0.3);">
         <img src="https://www.hackthebox.com/images/favicon-32x32.png" width="24" style="margin-right: 10px;" />
         HackTheBox
       </div>
     </a>
-    
     <a href="mailto:your-email@example.com" style="text-decoration: none;">
       <div style="display: flex; align-items: center; background: #EA4335; color: white; padding: 10px 20px; border-radius: 50px; transition: all 0.3s ease; box-shadow: 0 5px 15px rgba(234,67,53,0.3);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" style="margin-right: 10px;" />
