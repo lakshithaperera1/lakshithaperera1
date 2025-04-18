@@ -1,7 +1,7 @@
 # <div align="center">𝐋𝐚𝐤𝐬𝐡𝐢𝐭𝐡𝐚 𝐏𝐞𝐫𝐞𝐫𝐚</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=50&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Lakshitha+Perera;Cyber+Security+Expert;Security+Architect" alt="Typing SVG" />
+  <h2>🛡️ Cyber Security Expert | Security Architect | Penetration Tester 🛡️</h2>
   
   <a href="#"><img src="https://img.shields.io/badge/CISSP-Certified-brightgreen?style=flat-square&logo=isc2&logoColor=white&labelColor=001837&color=004daa" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CEH-Master-red?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1A1A1A&color=9FEF00" /></a>
@@ -10,13 +10,13 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,23,28,15&height=3" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <div align="center">『 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 』</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Matrix Animation">
 </div>
 
 <table>
@@ -49,86 +49,94 @@
 
 ## 🛡️ Security Arsenal
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Technology Animation">
+</div>
+
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-2d533aa6-56f0-4a35-9ff6-8637026ebbfc.gif" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-2d533aa6-56f0-4a35-9ff6-8637026ebbfc.gif" width="48" height="48" alt="Kubernetes" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Raspberry Pi" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="48" height="48" alt="Raspberry Pi" />
       <br>Raspberry Pi
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
+      <img src="https://media.giphy.com/media/DyDPj9JYO3zLpyDE3b/giphy.gif" width="48" height="48" alt="Kali Linux" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://www.metasploit.com/includes/images/favicon.ico" width="48" height="48" alt="Metasploit" />
+      <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="48" height="48" alt="Metasploit" />
       <br>Metasploit
     </td>
     <td align="center" width="96">
-      <img src="https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png" width="48" height="48" alt="Wireshark" />
+      <img src="https://media.giphy.com/media/S6Ejby6BTbj4agTXnd/giphy.gif" width="48" height="48" alt="Wireshark" />
       <br>Wireshark
     </td>
     <td align="center" width="96">
-      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48" alt="Nmap" />
+      <img src="https://media.giphy.com/media/1kh7zJUDdCLcRIMGEp/giphy.gif" width="48" height="48" alt="Nmap" />
       <br>Nmap
     </td>
     <td align="center" width="96">
-      <img src="https://portswigger.net/content/images/svg/icons/burp.svg" width="48" height="48" alt="Burp Suite" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdsaWdyNHgxNzRtNnZ6NHpmOWdrZDFqaTJzZjZoN3lheGswZzY5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SoTUgvCJlH5dnRVF78/giphy.gif" width="48" height="48" alt="Burp Suite" />
       <br>Burp Suite
     </td>
     <td align="center" width="96">
-      <img src="https://www.zaproxy.org/img/zap-logo.svg" width="48" height="48" alt="OWASP ZAP" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdqbm41djM1cG80dnl6ampuc2xiNGR6NmU1N21zNW1mZ21wYzNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn5R3E5x0B/giphy.gif" width="48" height="48" alt="OWASP ZAP" />
       <br>OWASP ZAP
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="48" height="48" alt="Parrot OS" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxuZ3h3a3Zpa21iOW10a3VicmU3cDU5ZmtnZXZ5MDFkbTJnc3hueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FmQOuOhMrPkEMog/giphy.gif" width="48" height="48" alt="Parrot OS" />
       <br>Parrot OS
     </td>
     <td align="center" width="96">
-      <img src="https://www.maltego.com/favicon-32x32.png" width="48" height="48" alt="Maltego" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ1ejc1MnRiY2I0M2NiamdseHg3NWlvZ3JtcDhzNGRvZnRxZDV5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85fYKy0N2CBqZuBW/giphy.gif" width="48" height="48" alt="Maltego" />
       <br>Maltego
     </td>
     <td align="center" width="96">
-      <img src="https://hashcat.net/favicon.png" width="48" height="48" alt="Hashcat" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA2MWF2NXpobjhoNGhocWRtMnZjMXRzNzNsb3FsdGprM3FyMGJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="48" height="48" alt="Hashcat" />
       <br>Hashcat
     </td>
   </tr>
 </table>
 
 ## 🎓 Professional Certifications
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400px" alt="Certificate Animation">
+</div>
 
 <div align="center">
   <table>
@@ -170,6 +178,10 @@
 
 ## 📊 Performance Metrics
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-422f-a662-9d0089bcd961.gif" width="500px" alt="Metrics Animation">
+</div>
+
 <table>
   <tr>
     <td width="50%">
@@ -182,10 +194,14 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshithaperera&bg_color=0D1117&color=4F8CC9&line=4AB097&point=4F8CC9&hide_border=true&radius=16" width="98%" alt="Contribution Graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700px" alt="Code Animation">
 </div>
 
 ## 🔰 Security Expertise Areas
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400px" alt="Security Animation">
+</div>
 
 <div align="center">
   <table>
@@ -228,6 +244,10 @@
 ## 🌐 Professional Network
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300px" alt="Network Animation">
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/lakshithaperera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -252,6 +272,10 @@
 </div>
 
 ## 📝 Featured Publications
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3be562.gif" width="500px" alt="Publications Animation">
+</div>
 
 <table>
   <tr>
@@ -281,7 +305,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,15&height=120&section=footer&text=Securing%20Digital%20Frontiers&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px" alt="Security Animation">
 </div>
 
 <div align="center">
@@ -290,4 +314,8 @@
 + "In a world where threats evolve constantly, security must evolve faster." +
 ```
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Matrix Animation">
 </div>
